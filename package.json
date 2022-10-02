@@ -1,0 +1,14 @@
+{
+  "name": "array-helpers-polyfill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "polyfill_array_helpers.js",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "author": "sathish raj",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.3"
+  }
+}
